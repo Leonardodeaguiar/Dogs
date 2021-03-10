@@ -5,7 +5,6 @@
     ".vscode": true,
     ".gitignore": true,
     "package.json": false,
-    "yarn.lock": true,
-    "publick": true
+    "yarn.lock": true
   }
 }
